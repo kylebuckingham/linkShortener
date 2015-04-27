@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
-<coverage lines-valid="38"  lines-covered="38"  line-rate="1"  branches-valid="10"  branches-covered="10"  branch-rate="1"  timestamp="1430163229053" complexity="0" version="0.1">
+<coverage lines-valid="38"  lines-covered="38"  line-rate="1"  branches-valid="10"  branches-covered="10"  branch-rate="1"  timestamp="1430165658931" complexity="0" version="0.1">
 <sources>
 	<source>/Users/kylebuckingham/linkShortener</source>
 </sources>
