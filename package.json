@@ -1,0 +1,19 @@
+{
+  "name": "linkShortener",
+  "version": "1.0.0",
+  "description": "URL Shortener",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kylebuckingham/linkShortener.git"
+  },
+  "author": "\"Kyle Buckingham\"",
+  "license": "\"GPLv2\"",
+  "bugs": {
+    "url": "https://github.com/kylebuckingham/linkShortener/issues"
+  },
+  "homepage": "https://github.com/kylebuckingham/linkShortener"
+}
